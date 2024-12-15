@@ -1,0 +1,10 @@
+flask
+gradio
+torch
+torchvision
+pytorch_lightning
+numpy
+Pillow
+matplotlib
+wandb
+huggingface_hub
