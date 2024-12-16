@@ -2,7 +2,7 @@ import torch
 from PIL import Image
 import torchvision.transforms as T
 import matplotlib.pyplot as plt
-from model import CycleGAN
+from model import CycleGAN, MODEL_CONFIG
 
 # Load and preprocess the input image
 def load_image(image_path, device, image_size=(256, 256)):
