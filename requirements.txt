@@ -8,3 +8,4 @@ Pillow
 matplotlib
 wandb
 huggingface_hub
+tensorflow==2.10.0
