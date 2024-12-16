@@ -21,4 +21,5 @@ MODEL_CONFIG = {
     "num_epochs": 30 if not DEBUG else 70,
     # the number of epochs before starting the learning rate decay
     "decay_epochs": 10 if not DEBUG else 70,
+    "some": 20
 }
