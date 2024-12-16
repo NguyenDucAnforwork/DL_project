@@ -32,7 +32,7 @@ Install all required packages by running this following command. You may want to
 pip install -r requirements.txt
 ```
 
-Next, download the checkpoint from this [link](https://husteduvn-my.sharepoint.com/:f:/g/personal/hieu_pm220062_sis_hust_edu_vn/Elcb7-0vRbFEt3BdGp_Pb0YBhxcdu7hoF3c556baxfBFgQ?e=IFe2uH) and **make sure to save all of them in the `checkpoints` folder**. 
+Next, download the checkpoints from this [link](https://husteduvn-my.sharepoint.com/:f:/g/personal/hieu_pm220062_sis_hust_edu_vn/Elcb7-0vRbFEt3BdGp_Pb0YBhxcdu7hoF3c556baxfBFgQ?e=IFe2uH). Create a new folder named `checkpoints` in the current working directory and **make sure to save all of the checkpoints there**. 
 
 ## Inference
 ### For the original Neural Style Transfer
